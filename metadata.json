@@ -1,0 +1,5 @@
+{
+  "name": "Noted",
+  "description": "A smart, modern note-taking application built with React, MUI, and Supabase.",
+  "requestFramePermissions": []
+}
